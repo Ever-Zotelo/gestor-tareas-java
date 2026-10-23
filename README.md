@@ -2,7 +2,7 @@
 
 ¡Hola! Este repositorio forma parte de mi proceso de repaso y puesta a punto de los fundamentos de **Java** y la **Programación Orientada a Objetos (POO)**. 
 
-El objetivo de este proyecto es construir una aplicación funcional desde cero, aplicando conceptos clave que fui aprendiendo en la carrera pero llevándolos a la práctica de forma limpia y ordenada.
+El objetivo de este proyecto es construir una aplicación funcional desde cero, aplicando conceptos clave que fui aprendiendo durante el curso pero llevándolos a la práctica de forma limpia y ordenada.
 
 ## 💡 ¿Qué conceptos practico en este proyecto?
 * **POO Avanzada:** Uso de clases abstractas, herencia (`extends`), llamada a constructores con `super` y polimorfismo (`@Override`).
